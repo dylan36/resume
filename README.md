@@ -1,10 +1,11 @@
 # 个人简历
 
 ## 基本信息
-- 电话：+86 15692190306
-- Email：vipdylan36@gmail.com
-- Telegram：@nick_fox_fire
-- 职位：产品经理
+- 姓名: Nick Song
+- 电话: +86 15692190306
+- Email: vipdylan36@gmail.com
+- Telegram: @nick_fox_fire
+- 职位: 产品经理
 
 ## 工作经历
 ###  2021- 2026 AWE Network / Loot ($AGLD) / STPT Network / DeFine Art
